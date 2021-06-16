@@ -33,6 +33,6 @@ Reimplementation of the related models: Widar3.0, EI, JADA, SignFi, ARIL, WiAG
 ### Train and Test the model
 
 * Run `python in_domain_run.py`. This will run in-domain training and place the results into `lightning_logs` (this folder will be automatic constructed).
-* Run `python ross_domain_run.py`. This will run cross-domain training
+* Run `python cross_domain_run.py`. This will run cross-domain training
 * the parameter_config.py is the configurations of the cross-domain and the in-domain experiments
 
