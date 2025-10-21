@@ -27,7 +27,9 @@ Reimplementation of the related models: Widar3.0, EI, JADA, SignFi, ARIL, WiAG
 
 * Download Widar3.0 dataset: http://tns.thss.tsinghua.edu.cn/widar3.0/
 * Download ARIL dataset: https://github.com/geekfeiw/ARIL
-* Download CSIDA dataset: https://pan.baidu.com/s/1Teb8hVWDxhOw0aIoVnS7Qw Password:lwp6 
+* Download CSIDA dataset: ~~https://pan.baidu.com/s/1Teb8hVWDxhOw0aIoVnS7Qw Password:lwp6~~
+  Complete version of the CSIDA dataset: https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zhangxie_connect_hku_hk/ESi7Py0PlcpPvbKLiH2JdN0BuFbZea0Qhutm20SOadyHWw?e=KSYYcy
+  (We also provide the script and intructions about how to parse the data in CSIDA before use it, please check DataSet/CSIDA_Dataset_README.md and DataSet/parsing.py)
 
 
 ### Train and Test the model
